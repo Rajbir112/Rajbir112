@@ -100,30 +100,6 @@ A full-stack note-taking application built end-to-end during my internship — u
 
 <br>
 
-## 📊 GitHub Analytics
-
-<table align="center">
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Rajbir112&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com?user=Rajbir112&theme=dark&hide_border=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rajbir112&theme=dark&hide_border=true&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rajbir112&theme=darkhub&no-frame=true&row=1&column=6" />
-</p>
 
 ### 🧠 Competitive Programming
 
