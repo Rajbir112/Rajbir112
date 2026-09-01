@@ -41,18 +41,17 @@ public class Rajbir extends Developer {
 <tr>
 <td width="70%">
 
-### 📓 iNoteBook — Cloud-Based Note Taking App
-A full-stack note-taking application built end-to-end during my internship — user auth, CRUD notes, and persistent cloud storage, deployed as a real working product rather than a tutorial clone.
+### 🏋️ FitVerse — AI-Powered Health & Fitness Platform
+A full-stack, microservices-based health and fitness platform designed to provide personalized health recommendations based on users' physical activity. Built using a distributed architecture with service discovery through Eureka and asynchronous communication using RabbitMQ, with AI-driven recommendations to help users make informed fitness and activity decisions.
 
-**Stack:** MongoDB · Express.js · React · Node.js
+**Stack:** Java · Spring Boot · Microservices · Eureka · RabbitMQ · AI · React
 
 </td>
 <td width="30%" align="center">
 
-![MERN](https://img.shields.io/badge/MERN-STACK-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Microservices](https://img.shields.io/badge/MICROSERVICES-ARCHITECTURE-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-**[View Repository →](https://github.com/Rajbir112)**
-<sub>replace with your iNoteBook repo link</sub>
+**[View Repository →](https://github.com/Rajbir112/FitVerse)**
 
 </td>
 </tr>
